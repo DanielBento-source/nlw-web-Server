@@ -15,7 +15,9 @@
 
 <h2> Descrição </h2>
 
-O projeto "Feedget" é um widget feito para capturar feedbacks dos usuarios, podendo o feedback ser um relato de Bug, uma ideia, ou qualquer outra coisa que possa ser escrita e alem do mais, tambem conta com a função de tirar um print da tela afim de facilitar o relato. tudo isso é enviado por e-mail ao proprietario do site ou suporte,no caso utilizamos o Mailtrap para os testes funcionais, as informações ficam armazenada em um bando de dados, podendo haver a consulta posteriormente se necessário. tambem foram feitos com Jest, testes unitarios  dentro da nossa Api afim de garatir um perfeito funcionamento de todas as funções.
+O projeto "Feedget" é um widget feito para capturar feedbacks dos usuários, podendo o feedback ser um relato de Bug, uma ideia, ou qualquer outra coisa que possa ser escrita e além do mais, também conta com a função de tirar um print da tela afim de facilitar o relato. tudo isso é enviado por e-mail ao proprietário do site ou suporte, no caso utilizamos o Mailtrap para os testes funcionais, as informações ficam armazenadas em um bando de dados, podendo haver a consulta posteriormente se necessário. também foram feitos com Jest, testes unitários dentro da nossa Api afim de garantir um perfeito funcionamento de todas as funções.
+
+
 
 <h2> ✔️ Técnicas e tecnologias utilizadas </h2>
 
